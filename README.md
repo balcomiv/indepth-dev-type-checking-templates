@@ -17,3 +17,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - `npx -p @angular/cli ng new <proj-name> --strict --routing --style=scss`
 - `npx -p @storybook/cli sb init`
 - `npm i @storybook/angular`
+- `ng add @briebug/cypress-schematic`
